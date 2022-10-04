@@ -1,4 +1,4 @@
-# Header JavaScript
+# Nav-Bar JavaScript
 CSS, JavaScript and HTML
 - SVG Logo Maker;
 - Media Query on CSS
